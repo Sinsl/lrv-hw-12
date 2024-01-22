@@ -11,5 +11,7 @@
             "email": "sinsl@me.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
 }

@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Sinsl\\Hw12\\' => array($baseDir . '/src'),
+    'Psr\\Log\\' => array($vendorDir . '/psr/log/src'),
 );
